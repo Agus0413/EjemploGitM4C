@@ -1,5 +1,5 @@
 function hello() {
-  //defining a function
+  console.log("Hello World");
 }
 
 function bye() {
