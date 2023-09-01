@@ -1,7 +1,7 @@
 function hello() {
-  //defining a function
+  console.log("Hello")
 }
 
 function bye() {
-  //defining a function
+  console.log("chauzinho")
 }
